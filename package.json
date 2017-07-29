@@ -1,0 +1,24 @@
+{
+  "name": "gh-viewer-server",
+  "version": "0.1.0",
+  "description": "Server for GH Viewer",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "start": "micro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-viewer/server.git"
+  },
+  "author": "Paul Le Cam <paul@ulem.net>",
+  "license": "MIT",
+  "homepage": "https://github.com/gh-viewer/server",
+  "dependencies": {
+    "got": "^7.1.0",
+    "micro": "^7.3.3",
+    "micro-redirect": "^1.0.0"
+  }
+}
