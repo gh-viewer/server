@@ -1,6 +1,6 @@
 {
   "name": "gh-viewer-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Server for GH Viewer",
   "main": "index.js",
   "engines": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/gh-viewer/server",
   "dependencies": {
     "got": "^7.1.0",
-    "micro": "^7.3.3",
+    "micro": "^8.0.1",
     "micro-redirect": "^1.0.0"
   }
 }
