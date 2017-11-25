@@ -17,8 +17,8 @@
   "license": "MIT",
   "homepage": "https://github.com/gh-viewer/server",
   "dependencies": {
-    "got": "^7.1.0",
-    "micro": "^8.0.1",
+    "got": "^8.0.0",
+    "micro": "^9.0.2",
     "micro-redirect": "^1.0.0"
   }
 }
